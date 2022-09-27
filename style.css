@@ -1,0 +1,124 @@
+*{
+margin:0;
+padding:0;
+}
+
+body{
+background-image: url(background.jpg.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.first-div{
+    width: 1024px;
+    height: 118px;
+}
+
+
+.second-div{
+    width: 1024px;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0.267);
+    border-radius: 20px;
+
+
+}
+
+.second-div a{
+color:white;
+text-decoration: none;
+padding:0px 7px;
+
+}
+
+
+nav{
+    padding-top:10px;
+}
+
+
+.third-div{
+    width: 1024px;
+    height: 400px;
+    color: white;
+    padding-top:60px
+}
+
+
+
+
+.third-div p{
+width:500px;
+padding-bottom: 30px;
+
+}
+
+.third-div a{
+    color: white;
+
+    padding-top:30px;
+}
+
+.third-div h1{
+padding-bottom: 20px;
+
+}
+
+.fourth-div{
+    width: 1024;text-size-adjust: 20%;
+    height: 500px;
+
+}
+
+
+.fifth-div{
+    width: 1024;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0.24);
+}
+
+.fifth-div p{
+
+color:white; 
+padding-top: 10px;  
+}
+
+.nav{
+    border-style:solid;
+}
+
+iframe{
+padding-bottom: 8px;
+
+}
+
+.menu-div{
+    background-color: red;
+    width: 100px;
+    height:100px;
+    border-radius: 50%;
+}
+
+.menu{
+color:white;
+
+}
+
+.img{
+
+    width:300px;
+    height:300px;
+    border-radius: 50%;
+}
+
+.button{
+
+    background-color: brown;
+    border:solid red;
+    border-radius: 30px;
+    color: white;
+    text-decoration: none;
+    padding: 15px
+
+}
